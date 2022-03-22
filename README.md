@@ -6,3 +6,4 @@ and machine learning, and have extensive experience working with genomics, metag
 - 📫 How to reach me: sandain@hotmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I through-hiked the Appalachian Trail in 2008
+- :mortar_board: Publications: [Google Scholar Profile](https://scholar.google.com/citations?user=ttc48l8AAAAJ)
